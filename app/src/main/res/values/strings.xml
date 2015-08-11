@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Android Blur Tool</string>
+
+    <!-- Main Activity -->
+    <string name="main_activity_load_image_bt">Load Image</string>
+
+</resources>
